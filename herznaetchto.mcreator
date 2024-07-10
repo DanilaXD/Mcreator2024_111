@@ -1,31 +1,10 @@
 {
-  "mod_elements": [
-    {
-      "name": "IDINAXYI",
-      "type": "musicdisc",
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "idinaxyi",
-      "metadata": {
-        "files": [
-          "src/main/java/net/mcreator/herznaetchto/item/IDINAXYIItem.java",
-          "src/main/resources/assets/herznaetchto/models/item/idinaxyi.json"
-        ]
-      }
-    }
-  ],
+  "mod_elements": [],
   "variable_elements": [],
   "sound_elements": [],
-  "tag_elements": {
-    "ITEMS:minecraft:music_discs": [
-      "~CUSTOM:IDINAXYI"
-    ]
-  },
+  "tag_elements": {},
   "language_map": {
-    "en_us": {
-      "item.herznaetchto.idinaxyi.desc": "IDINAX",
-      "item.herznaetchto.idinaxyi": "IDINAXYI"
-    }
+    "en_us": {}
   },
   "foldersRoot": {
     "name": "~",
